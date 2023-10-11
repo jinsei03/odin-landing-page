@@ -1,1 +1,2 @@
 # odin-landing-page
+This is the Landing Page project from the foundations course for the Odin Project. This is a project where I will be creatng an entire web page from a design the has been provided for me. 
