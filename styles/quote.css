@@ -1,0 +1,33 @@
+#quote-background
+{
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #E5E7EB;
+    padding-bottom: 150px;
+}
+
+#quote-container
+{
+    width: 45%;
+}
+
+#quote
+{
+    color: #1f2937;
+    font-size: 39px;
+    font-style: italic;
+}
+
+#quote-author
+{
+    font-size: 24px;
+    font-weight: bold;
+    float: right;
+}
+#quote-author span
+{
+    margin-right: 34px;
+}

@@ -1,0 +1,50 @@
+#cta-background
+{
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 150px;
+}
+
+#cta-container
+{
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.cta-text-container
+{
+    color: white;
+}
+
+.cta-text
+{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.cta-subtext
+{
+    font-size: 18px;
+}
+
+.cta-sign-up-button
+{
+    padding: 10px 30px 10px 30px;
+    font-weight: 700;
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: #3882F6;
+    color: white;
+    font-family: 'Roboto';
+    font-size: 18px;
+}
